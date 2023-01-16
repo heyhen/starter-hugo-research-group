@@ -1,5 +1,5 @@
 ---
-role: Senior researcher and research group leader
+role: Senior researcher and group leader
 avatar_filename: kayh20220328-1m7a0023.jpeg
 bio: My research interests include genomics and personalized medicine with a
   focus on epilepsy and other ion-channel related diseases.
