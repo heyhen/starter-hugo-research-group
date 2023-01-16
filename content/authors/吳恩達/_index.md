@@ -1,14 +1,13 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Hasso Plattner Institute
+    url: https://hpi.de/
 superuser: false
 authors:
   - 吳恩達
 title: Julian Wanner
 role: PhD student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Polygenic Risk Scores
   - Genetics
@@ -19,24 +18,18 @@ social:
     link: mailto:test@example.org
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/JulianWanner
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/julianwanner
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Nanoscience
+      institution: University of Tuebingen
+      year: 2021
 email: ""
 user_groups:
   - Researchers
