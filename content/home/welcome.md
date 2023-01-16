@@ -4,7 +4,7 @@ widget_id: update site title
 headless: true
 weight: 10
 title: Genomics of Epilepsy and More
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
