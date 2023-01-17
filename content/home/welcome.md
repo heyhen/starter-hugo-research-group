@@ -1,9 +1,10 @@
 ---
 widget: hero
-widget_id: update site title
+widget_id: Genomics for Epilepsy and More
 headless: true
 weight: 10
 title: Genomics of Epilepsy and More
+subtitle: Computational Research lab
 active: false
 design:
   columns: "1"
