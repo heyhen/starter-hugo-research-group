@@ -1,6 +1,6 @@
 ---
-title: Henrike Heyne
-role: Senior Researcher and Principal Investigator
+title: Andrea Eoli
+role: PhD Student
 avatar_filename: avatar
 social:
   - display:
@@ -9,5 +9,7 @@ social:
     icon_pack: ai
     icon: twitter
 superuser: false
+user_groups:
+  - Researchers
 ---
 test test
