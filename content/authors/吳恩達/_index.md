@@ -24,15 +24,14 @@ social:
     link: https://github.com/julianwanner
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Nanoscience
+    - course: Master of Science
       institution: University of Tuebingen
       year: 2021
+    - course: BSc in Nanoscience
+      institution: University of Tuebingen
+      year: 2018
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 ---
 Julian Wanner is a PhD student in the lab.
