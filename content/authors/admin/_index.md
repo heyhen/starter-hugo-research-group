@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/heyhen
 organizations:
-  - name: Stanford University
+  - name: Hasso-Plattner-Institute
     url: ""
 education:
   courses:
@@ -34,7 +34,7 @@ education:
       year: 2014
     - course: Postdoctoral Reseach Fellow
       institution: Broad Institute of MIT and Harvard
-      year: ""
+      year: 2019
 superuser: true
 user_groups:
   - Researchers
