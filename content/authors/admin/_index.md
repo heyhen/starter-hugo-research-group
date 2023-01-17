@@ -23,7 +23,7 @@ social:
     link: https://github.com/heyhen
 organizations:
   - name: Hasso-Plattner-Institute
-    url: ""
+    url: https://hpi.de/
 education:
   courses:
     - course: Doctoral thesis in Quantitative/Evolutionary Genetics
