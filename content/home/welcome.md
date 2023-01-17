@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Genomics for Epilepsy and More
+widget_id: Genomics of Epilepsy and More
 headless: true
 weight: 10
 title: Genomics of Epilepsy and More
