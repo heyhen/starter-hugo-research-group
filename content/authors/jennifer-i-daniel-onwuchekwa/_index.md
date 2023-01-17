@@ -1,6 +1,6 @@
 ---
 title: Jennifer I. Daniel Onwuchekwa
-role: Alumni
+role: Alumni Master student
 avatar_filename: avatar
 social: []
 superuser: false
