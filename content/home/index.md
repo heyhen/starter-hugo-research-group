@@ -1,7 +1,8 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: test
+widget_id: News
 headless: true
+weight: 10
+title: Research group
 ---
