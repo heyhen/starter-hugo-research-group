@@ -33,8 +33,12 @@ education:
       institution: University of Leipzig
       year: 2014
     - course: Postdoctoral Reseach Fellow
-      institution: Broad Institute of MIT and Harvard
+      institution: Broad Institute of MIT and Harvard, Cambridge, USA
       year: 2019
+    - course: Postdoctoral Reseach Fellow
+      year: 2021
+      institution: "Finnish Institute for Molecular Medicine: FIMM, University of
+        Helsinki, Finland"
 superuser: true
 user_groups:
   - Researchers
