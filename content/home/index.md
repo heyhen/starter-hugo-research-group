@@ -1,6 +1,6 @@
 ---
 type: widget_page
-widget: test
+widget: home
 widget_id: News
 headless: true
 weight: 10
