@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: (+49) 0331 5509 4845
+ # email: test@example.org
+ # phone: (+49) 0331 5509 4845
   address:
     street: Rudolf-Breitscheid-Straße 187
     city: Potsdam
