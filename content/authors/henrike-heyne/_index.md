@@ -1,7 +1,7 @@
 ---
 title: Andrea Eoli
 role: PhD Student
-avatar_filename: andrea.png
+avatar_filename: avatar.png
 social:
   - display:
       header: false
