@@ -7,6 +7,7 @@ authors:
   - 吳恩達
 title: Julian Wanner
 role: PhD student
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Polygenic Risk Scores
