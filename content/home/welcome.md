@@ -16,4 +16,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-Our **Research Group** focuses on genomics and precision medicine for epilepsy and other (ion channel) diseases.
+Our **Research Group** focuses on genomics and precision medicine of epilepsy and other (ion channel) diseases.
