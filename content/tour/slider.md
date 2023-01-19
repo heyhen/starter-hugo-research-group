@@ -17,7 +17,7 @@ content:
   slides:
     - title: 👋 Welcome to the group
       content: Take a look at what we're working on...
-      align: left
+      align: right
       background:
         position: right
         color: '#666'
@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: julian_ashg.png
     - title: Rare Epilepsy Genomics
-      content: 'PhD student Andrea Eoli discussing his work at the Digital Health Center 5 year anniversary'
+      content: 'PhD student Andrea Eoli at the poster session of the Digital Health Center 5 year anniversary'
       align: left
       background:
         position: center
