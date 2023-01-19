@@ -12,4 +12,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-test test
+Andrea Eoli is a PhD student in our group.
