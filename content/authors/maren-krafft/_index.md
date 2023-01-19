@@ -9,4 +9,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Maren Krafft is a Master student in our group.
+Maren Krafft is a Master student in our group. She studies in the Master program of Digital Health at HPI.
