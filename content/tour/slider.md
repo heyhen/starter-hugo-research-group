@@ -47,6 +47,14 @@ content:
         color: '#333'
         brightness: 0.5
         media: coders.jpg
+    - title: Join us!
+      content: ''
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: join_us.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
