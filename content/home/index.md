@@ -1,7 +1,7 @@
 ---
 type: widget_page
 widget: home
-widget_id: RECENT-POSTS
+widget_id: tour
 headless: true
 weight: 10
 title: Research group
