@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Genomics of Epilepsy and More
 subtitle: Computational Research lab
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
