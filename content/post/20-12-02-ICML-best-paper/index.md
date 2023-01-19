@@ -1,7 +1,7 @@
 ---
-title: Julian Wanner gives a talk at the ASHG (American society of Human
-  Genetics) conference
-date: 2020-12-02
+title: Julian Wanner gives a talk about 'Polygenic risk scores in disease prognosis'
+date: 2020-10-23T22:00:00.000Z
+featured: true
 image:
   focal_point: top
   filename: screenshot-2023-01-16-at-11.02.53.png
