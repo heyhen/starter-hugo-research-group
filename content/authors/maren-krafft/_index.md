@@ -9,3 +9,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
+Maren Krafft is a Master student in our group.
