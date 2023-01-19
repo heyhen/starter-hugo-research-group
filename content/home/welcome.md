@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: tour
+widget_id: home
 headless: true
 weight: 20
 title: Genomics of Epilepsy and More
@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: welcome.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 <br>
