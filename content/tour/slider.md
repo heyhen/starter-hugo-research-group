@@ -56,7 +56,7 @@ content:
         brightness: 0.5
         media: DHC.jpg
      - title: We are closely working with a network of national and international collaborators
-      content: 'such as the Finnish Institute for Molecular Medicine: FIMM, the FinnGen study, the INTERVENE project, the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig'
+      content: 'such as FIMM, the FinnGen study, the INTERVENE project, the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig'
       align: right
       background:
         position: center
