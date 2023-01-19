@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: coders.jpg
+widget_id: RECENT-POSTS
 headless: true
 weight: 30
 title: null
