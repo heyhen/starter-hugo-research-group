@@ -8,7 +8,7 @@
 appearance:
   theme_day: earth
   theme_night: earth
-  font: native
+  font: minimal
   font_size: L
 
 # SEO
@@ -42,7 +42,7 @@ header:
 # Site footer
 
 footer:
-  copyright:
+  copyright: 'Pictures copyright by HPI and Kay Herschelmann'
     notice: '© {2023} Henrike O. Heyne. This work is licensed under {license}'
     license:
       enable: true
