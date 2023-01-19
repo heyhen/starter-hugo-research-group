@@ -6,9 +6,19 @@ publication_types:
   - "2"
 authors:
   - Henrike O. Heyne et al
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Epilepsy is a frequent feature of neurodevelopmental disorders (NDDs),
+  but little is known about genetic differences between NDDs with and without
+  epilepsy. We analyzed de novo variants (DNVs) in 6,753 parent–offspring trios
+  ascertained to have different NDDs. In the subset of 1,942 individuals with
+  NDDs with epilepsy, we identified 33 genes with a significant excess of DNVs,
+  of which SNAP25 and GABRB2 had previously only limited evidence of disease
+  association. Joint analysis of all individuals with NDDs also implicated
+  CACNA1E as a novel disease-associated gene. Comparing NDDs with and without
+  epilepsy, we found missense DNVs, DNVs in specific genes, age of recruitment,
+  and severity of intellectual disability to be associated with epilepsy. We
+  further demonstrate the extent to which our results affect current genetic
+  testing as well as treatment, emphasizing the benefit of accurate genetic
+  diagnosis in NDDs with epilepsy.
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -20,8 +30,7 @@ featured: false
 date: 2018-06-25T08:36:43.319Z
 url_slides: ""
 title: De Novo Variants In Neurodevelopmental Disorders With Epilepsy
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: ""
