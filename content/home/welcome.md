@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: screenshot-2023-01-16-at-11.02.53.png
+    image: welcome.jpg
 hero_media: welcome.jpg
 ---
 <br>
