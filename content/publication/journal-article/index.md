@@ -17,7 +17,7 @@ url_source: ""
 url_video: ""
 publication: "*Nature Genetics, 2018* "
 featured: false
-date: 2023-01-19T09:36:43.319Z
+date: 2018-06-25T08:36:43.319Z
 url_slides: ""
 title: De Novo Variants In Neurodevelopmental Disorders With Epilepsy
 tags:
