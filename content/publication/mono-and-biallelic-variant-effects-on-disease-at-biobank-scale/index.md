@@ -1,5 +1,5 @@
 ---
-title: Mono- and biallelic variant effects on disease at biobank scale.
+title: Mono- and biallelic variant effects on disease at biobank scale
 publication_types:
   - "2"
 authors:
