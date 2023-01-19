@@ -23,16 +23,16 @@ content:
         color: '#666'
         brightness: 0.7
         media: welcome.jpg
-    - title: Polygenic risk scores in disease progression
-      content: 'PhD student Julian Wanner giving a talk at the ASHG 2022 annual meeting'
+    - title: Polygenic risk scores in disease prognosis
+      content: 'Lead: PhD student Julian Wanner, in close collaboration with the INTERVENE project (funding: Horizon 2020)'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: julian_ashg.png
+        media: contact.jpg
     - title: Rare Epilepsy Genomics
-      content: 'PhD student Andrea Eoli at the poster session of the Digital Health Center 5 year anniversary'
+      content: 'Lead: PhD student Andrea Eoli (here: at the poster session of the Digital Health Center 5 year anniversary)'
       align: left
       background:
         position: center
