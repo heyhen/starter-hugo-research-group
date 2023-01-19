@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: WELCOME
+widget_id: tour
 headless: true
 weight: 10
 title: Genomics of Epilepsy and More
