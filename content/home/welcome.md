@@ -2,7 +2,7 @@
 widget: hero
 widget_id: tour
 headless: true
-weight: 10
+weight: 20
 title: Genomics of Epilepsy and More
 subtitle: Computational Research lab
 active: true
