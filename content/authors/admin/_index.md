@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:henrike.heyne@hpide
+    link: mailto:henrike.heyne@hpi.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HHeyne
