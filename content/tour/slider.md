@@ -17,20 +17,28 @@ content:
   slides:
     - title: 👋 Welcome to the group
       content: Take a look at what we're working on...
-      align: center
+      align: left
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: welcome.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Polygenic risk scores in disease progression
+      content: 'PhD student Julian Wanner giving a talk at the ASHG 2022 annual meeting'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: julian_ashg.png
+    - title: Rare Epilepsy Genomics
+      content: 'PhD student Andrea Eoli discussing his work at the Digital Health Center 5 year anniversary'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: andrea_poster.jpg
     - title: VisGen - Master student project
       content: 'building a web application to visualize genetic influences on disease risk from personal genomic data'
       align: right
