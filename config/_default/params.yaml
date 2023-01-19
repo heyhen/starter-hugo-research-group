@@ -42,8 +42,8 @@ header:
 # Site footer
 
 footer:
-  copyright: 'Pictures copyright by HPI and Kay Herschelmann'
-    notice: '© {2023} Henrike O. Heyne. This work is licensed under {license}'
+  copyright: 
+    notice: '© {2023} Henrike O. Heyne. Pictures copyright by HPI and Kay Herschelmann. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
