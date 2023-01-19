@@ -6,9 +6,9 @@ authors:
   - Henrike O. Heyne et al *Nature*
 doi: https://doi.org/10.1038/s41586-022-05420-7
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-01-19T09:37:24.963Z
