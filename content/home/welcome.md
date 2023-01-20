@@ -17,3 +17,5 @@ hero_media: intro.jpg
 <br>
 
 Our **Research Group** focuses on genomics and precision medicine of epilepsy and other (ion channel) diseases.
+
+We are a computational research lab located at the Hasso Plattner Institute (University of Potsdam, Germany).
