@@ -47,23 +47,23 @@ content:
         color: '#333'
         brightness: 0.5
         media: coders.jpg
-#     - title: We are located 
-#       content: 'at the Digital Health Center of the Hasso Plattner Institute in Potsdam (Germany)'
-#       align: right
-#       background:
+#   - title: We are located 
+#     content: 'at the Digital Health Center of the Hasso Plattner Institute in Potsdam (Germany)'
+#     align: right
+#     background:
 #        position: center
 #        color: '#333'
 #        brightness: 0.5
 #        media: DHC.jpg
-#     - title: We are closely working with a network of national and international collaborators
-#       content: 'such as FIMM, the FinnGen study, the INTERVENE project, the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig'
-#       align: right
-#       background:
-#        position: center
-#        color: '#333'
-#        brightness: 0.5
-#        media: twitter_pics2.jpg
-    - title: Join us!
+   - title: We are closely working with a network of national and international collaborators
+     content: 'such as FIMM, the FinnGen study, the INTERVENE project, the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig'
+     align: right
+     background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: twitter_pics2.jpg
+    - title: Get in contact!
       content: ''
       align: right
       background:
