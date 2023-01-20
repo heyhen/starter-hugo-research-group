@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: welcome.jpg
-    - title: Polygenic risk scores in disease prognosis
+    - title: Polygenic risk scores in disease
       content: 'Lead: PhD student Julian Wanner, in close collaboration with the INTERVENE project (funding: Horizon 2020)'
       align: left
       background:
