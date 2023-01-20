@@ -22,7 +22,7 @@ social:
     link: https://twitter.com/JulianWanner
   - icon: github
     icon_pack: fab
-    link: https://github.com/julianwanner
+    link: https://github.com/Waseju
 education:
   courses:
     - course: Master of Science
