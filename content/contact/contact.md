@@ -24,9 +24,9 @@ content:
     postcode: '14482'
     country: Germany
     country_code: DE
-  coordinates:
-    latitude: '52.387563'
-    longitude: '13.102872'
+#  coordinates:
+    latitude: '52.394741'
+    longitude: '13.124820'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -47,8 +47,8 @@ content:
     formspree:
       id:
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+     # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
 
 design:
   columns: '1'
