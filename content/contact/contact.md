@@ -24,7 +24,7 @@ content:
     postcode: '14482'
     country: Germany
     country_code: DE
-#  coordinates:
+  coordinates:
     latitude: '52.394741'
     longitude: '13.124820'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
