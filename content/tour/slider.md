@@ -57,9 +57,9 @@ content:
         media: dhc.jpeg
     - title: We are working with a network of (inter-)national collaborators
       content: 'such as FIMM, the FinnGen study, the INTERVENE project (in picture), the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig etc.'
-      align: right
+      align: left
       background:
-        position: center
+        position: top
         color: '#333'
         brightness: 0.5
         media: intervene_pic.jpg
