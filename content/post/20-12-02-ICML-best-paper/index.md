@@ -6,6 +6,6 @@ authors:
   - Julian Wanner
 image:
   focal_point: top
-  filename: featured.png
+  filename: featured.jpg
 ---
-Congratulations to Julian Wanner for being selected to give a presentation at the ASHG meeting, the largest Human Genetics conference in the world (talk acceptance rate: ca. 8%).
+Congratulations to Julian Wanner for being selected to give a presentation at the 2022 ASHG meeting, the largest worldwide Human Genetics conference in Los Angeles (talk acceptance rate: ca. 8%).
