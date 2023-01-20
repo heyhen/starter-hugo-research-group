@@ -62,7 +62,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: twitter_pics2.jpg
+        media: twitter_pics2.jpeg
     - title: Get in contact!
       content: ''
       align: right
