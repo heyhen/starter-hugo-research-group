@@ -54,15 +54,15 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: dhc.jpg
-    - title: We are closely working with a network of national and international collaborators
-      content: 'such as FIMM, the FinnGen study, the INTERVENE project, the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig'
+        media: dhc.jpeg
+    - title: We are working with a network of (inter-)national collaborators
+      content: 'such as FIMM, the FinnGen study, the INTERVENE project (in picture), the Hasso Plattner Institute at Mount Sinai (NY), the University of Leipzig etc.'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: twitter_pics2.jpeg
+        media: intervene_pic.jpg
     - title: Get in contact!
       content: ''
       align: right
@@ -74,6 +74,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: Contact
         url: ../contact/
 ---
