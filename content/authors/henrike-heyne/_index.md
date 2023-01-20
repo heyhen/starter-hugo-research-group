@@ -10,9 +10,9 @@ social:
     icon: twitter
   - display:
       header: false
-    icon: GitHub
+    icon: github
     link: https://github.com/aeoli
-    icon_pack: ai
+    icon_pack: fab
 organizations: []
 superuser: false
 user_groups:
