@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 20
-title: Genomics of Epilepsy and More
+title: Genomics, Epilepsy and More
 subtitle: Computational Research lab
 active: true
 design:
