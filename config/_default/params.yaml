@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright: 
-    notice: '© {2023} Henrike O. Heyne. Pictures copyright by HPI and Kay Herschelmann. This work is licensed under {license}'
+    notice: '© {2023} Henrike O. Heyne. Pictures copyright by HPI/Kay Herschelmann and individual group members. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
