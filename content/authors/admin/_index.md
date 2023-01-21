@@ -46,6 +46,8 @@ highlight_name: false
 title: Henrike O. Heyne
 email: ""
 ---
-I am a research group leader and medical doctor working with large and small genomic and health datasets to better understand and alleviate disease. Please reach out if you are interested in learning more about my ongoing scientific projects or doing a Master or PhD thesis. 
+I am a research group leader and medical doctor working with large and small genomic and health datasets to better understand and alleviate disease. Please reach out if you are interested in learning more about ongoing scientific projects in our group or open positions. 
 
 My research aims to help treat patients based on the underlying genetic causes of their disease, with a focus on ion-channel related disease such as epilepsy. As a doctoral student I gained quantitative genetics expertise and programming skills which I used on clinical genetics questions as a postdoctoral researcher. This enabled me to challenge commonly used clinical labels, gain insight into epilepsy pathobiology and identify disease genes. I also developed a machine learning method that predicts if genetic variants in ion channels fire too much or too little which is important for precision clinical care. I am also studying the effects of genetic variation on electronic health records from biobanks such as the UK biobank, FinnGen project (where I remain an affiliated researcher) and the BioMe cohort.
+
+Find a more detailed CV [here](https://hpi.de/en/boettinger/team/henrike-heyne.html).
