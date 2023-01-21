@@ -20,4 +20,4 @@ Our **Research Group** aims to use information from the genome to optimize clini
 
 Here, we focuse on epilepsy and other ion channel related diseases.
 
-Our research lab works computationally and we are located at the Hasso Plattner Institute (University of Potsdam, Germany).
+Our computational research lab is located at the Hasso Plattner Institute (University of Potsdam, Germany).
