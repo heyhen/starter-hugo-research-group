@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 20
-title: Genomics, Epilepsy and Precision Medicine Research group
+title: Genomics, Epilepsy and Precision Medicine
 subtitle: Computational Research lab
 active: true
 design:
