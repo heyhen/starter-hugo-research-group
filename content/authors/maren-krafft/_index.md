@@ -1,7 +1,7 @@
 ---
 title: Maren Krafft
 role: Master Student
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 organizations:
   - name: Hasso-Plattner-Institute
