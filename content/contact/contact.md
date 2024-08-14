@@ -18,7 +18,7 @@ content:
  # email: test@example.org
  # phone: (+49) 0331 5509 4845
   address:
-    street: Rudolf-Breitscheid-Straße 187
+    street: Prof.-Dr.-Helmert-Str. 2-3
     city: Potsdam
     region: Brandenburg
     postcode: '14482'
